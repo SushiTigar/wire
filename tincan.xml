@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://2FSwBcf-AJVnMKB2cvESyIW4rWW_18mF_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Wire Fraud Awareness</name>
+      <description lang="en-US">&lt;p&gt;Wire Fraud is a real threat actively harming some of Redfin&amp;#39;s clients. Take this course to learn how to tell clients to spot and avoid it.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Complete all three lessons of this course to receive full credit.&lt;/p&gt;</description>
+    <launch lang="en-US">scormdriver/indexAPI.html</launch>
+    </activity>
+      <activity id="http://2FSwBcf-AJVnMKB2cvESyIW4rWW_18mF_rise/uAluf7eKgGU4PPwitsghnx2-O2kWd5Q2" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">What is Wire Fraud?/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://2FSwBcf-AJVnMKB2cvESyIW4rWW_18mF_rise/co7LFs_nFDa4ToOcHLILaf9lOUalZcP9" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">How does Wire Fraud work?/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://2FSwBcf-AJVnMKB2cvESyIW4rWW_18mF_rise/DXRIeBw9CabNU5go1D3C-QvSoZMH92dn" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">How do I help clients avoid Wire Fraud?/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
